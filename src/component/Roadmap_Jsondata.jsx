@@ -509,8 +509,6 @@ const Roadmap_data = [
     "description": "The hands-on DevSecOps Certification Course The DevSecOps Professional course is our most sought-after DevSecOps Training and Certification program.In this DevSecOps certification course, you will learn:DevSecOps processes, tools, and techniques.Major components in a DevOps Pipeline.How to create and maintain DevSecOps pipelines using SCA, SAST, DAST, and Security as Code.How to mature an organization’s DevSecOps Program.Learn to understand and apply the principles, values, and practices that enable DevSecOps:",
     "category": ["Security Architecture and Engineering"],
     "subcategory": ["Cloud/SysOps"],
-    "level": "Beginner",
-    "provider": "Practical DevSecOps"
   },
   {
     // err page not found
@@ -518,9 +516,9 @@ const Roadmap_data = [
     "url": "https://www.exin.com/technologies-software/ccc-cloud-computing/ccc-professional-cloud-developer/",
     "description": "",
     "category": ["Security Architecture and Engineering"],
-    "subcategory": ["Cloud/SysOps"],
+    "subcaregory": ["Cloud/SysOps"],
     "level": "Beginner",
-    "provider": "EXIN Professional Cloud Developer"
+    "provider": "Exin"
   },
   {
     "name": "KCNA",
@@ -822,10 +820,6 @@ const Roadmap_data = [
     // err page not found
     "name": "CSA CGC",
     "url": "https://cloudsecurityalliance.org/education/cloud-governance-and-compliance",
-    "description": "",
-    "category": ["Security Architecture and Engineering"],
-    "subcategory": ["Cloud/SysOps"],
-    "level": "Intermediate",
     "provider": "Cloud Security Alliance"
   },
   {

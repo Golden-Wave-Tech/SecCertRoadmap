@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Security Certification Roadmap
 
 The main focus here is to create JSON files for the Security Certification Roadmap. The JSON data will be used in the new React-based platform, SecCertRoadmap - New Platform.
@@ -19,3 +20,13 @@ The JSON files will include the following information for each certification:
 - **New Platform**: [SecCertRoadmap - New Platform](https://github.com/PaulJerimy/SecCertRoadmap/tree/dev)
 - **Certification Roadmap**: [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
 
+=======
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+>>>>>>> 0e08a12 (he JSON file of the Security Certification Roadmap.)
