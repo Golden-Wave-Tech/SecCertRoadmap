@@ -510,10 +510,9 @@ const Roadmap_data = [
     "category": ["Security Architecture and Engineering"],
     "subcategory": ["Cloud/SysOps"],
     "level": "Beginner",
-    "provider": "Practical DevSecOps"
   },
   {
-    // err page not found
+      // err page not found
     "name": "EXIN PCD",
     "url": "https://www.exin.com/technologies-software/ccc-cloud-computing/ccc-professional-cloud-developer/",
     "description": "",
@@ -822,10 +821,6 @@ const Roadmap_data = [
     // err page not found
     "name": "CSA CGC",
     "url": "https://cloudsecurityalliance.org/education/cloud-governance-and-compliance",
-    "description": "",
-    "category": ["Security Architecture and Engineering"],
-    "subcategory": ["Cloud/SysOps"],
-    "level": "Intermediate",
     "provider": "Cloud Security Alliance"
   },
   {
@@ -869,10 +864,6 @@ const Roadmap_data = [
     "name": "AWS CSS",
     "url": "https://aws.amazon.com/certification/certified-security-specialty/",
     "description": "AWS Certified Security - Specialty validates your expertise in creating and implementing security solutions in the AWS Cloud. This certification also validates your understanding of specialized data classifications and AWS data protection mechanisms; data-encryption methods and AWS mechanisms to implement them; and secure internet protocols and AWS mechanisms to implement them.",
-    "category": ["Security Architecture and Engineering"],
-    "subcategory": ["Cloud/SysOps"],
-    "level": "Intermediate",
-    "provider": "AWS"
   },
   {
     "name": "SFCCCC",
@@ -929,10 +920,6 @@ const Roadmap_data = [
   {
     "name": "ISA CDS",
     "url": "https://www.isa.org/certification/certificate-programs/isa-iec-62443-cybersecurity-certificate-program",
-    "description": "The ISA industrial cybersecurity training courses and knowledge-based certificate recognition program are based on ISA/IEC 62443—the world’s only consensus-based series of automation cybersecurity standards, and a key component of government cybersecurity plans. This program covers the complete lifecycle of industrial automation and control system (IACS) assessment, design, implementation, operations, and maintenance.The program is designed for professionals involved in IT and control system security roles that need to develop a command of industrial cybersecurity terminology, as well as a thorough understanding of the material embedded in the ISA/IEC 62443 series of standards. The ISA/IEC 62443 Cybersecurity certificates are awarded to those who successfully complete a designated training course and pass a 75-100 question multiple choice exam.",
-    "category": ["Security Architecture and Engineering"],
-    "subcategory": ["ICS/IoT"],
-    "level": "Intermediate",
     "provider": "International Society of Automation ISA"
   },
   {
@@ -1584,10 +1571,6 @@ const Roadmap_data = [
     "name": "CITGP",
     "url": "https://www.itgovernance.co.uk/shop/product/implementing-it-governance-foundation-principles-training-course",
     "description": "Complete introduction to the business-critical subject of IT Governance.Designed to help managers create a single integrated management framework that ensures that an organisation’s IT supports and enables the achievement of its strategies and objectives.Train without the travel with our instructor-led online or classroom/online combination courses giving you all the benefits of classroom study without the hassle, uncertainty and cost of travel.The classroom/online courses offer you the option to attend in person or online, if circumstances change.Successful completion of the course and included exam leads to the ISO 17024-Certificated Implementing IT Governance: Foundation & Principles (CITGP) qualification and 21 CPD/CPE points.",
-    "category": ["Security and Risk Management"],
-    "subcategory": ["GRC"],
-    "level": "Beginner",
-    "provider": "it governance"
   },
   {
     // err Post not found
@@ -1973,14 +1956,6 @@ const Roadmap_data = [
     "description": "The Professional Scrum Developer™ (PSD) certification validates your knowledge of how to deliver quality software using the Scrum framework while working in Scrum Teams including the application of modern Agile and DevOps practices. Earning PSD proves that you have demonstrated an understanding of the fundamentals of applying the Scrum framework as it applies to software development.",
     "category": ["Security and Risk Management"],
     "level": "Intermediate",
-    "provider": "Scrum.org"
-  },
-  {
-    "name": "GCPM",
-    "url": "https://www.giac.org/certifications/certified-project-manager-gcpm/",
-    "description": "The GIAC Certified Project Manager (GCPM) certification validates a practitioner's knowledge of technical project management methodology and implementation. GCPM certification holders have demonstrated the critical skill sets associated with making projects successful, including effective communication and time, cost, quality, procurement and risk management of IT projects and application development.",
-    "category": ["Security and Risk Management"],
-    "level": "Intermediate",
     "provider": "GIAC Certifications"
   },
   {
@@ -2146,11 +2121,6 @@ const Roadmap_data = [
     "url": "https://www.ncsc.gov.uk/information/certified-cyber-professional-assured-service",
     "description": "Certified Cyber Professional (CCP) assured service.About the Certified Professional (CCP) assured service and the benefits for UK cyber security organisations and professionals.",
     "category": ["Security and Risk Management"],
-    "level": "Expert",
-    "provider": "National Cyber Security Center"
-  },
-
-  {
     "name": "CISSP",
     "url": "https://www.isc2.org/Certifications/CISSP",
     "description": "Earn the CISSP - The World's Premier Cybersecurity Certification Accelerate your cybersecurity career with the CISSP certification. Earning the CISSP proves you have what it takes to effectively design, implement and manage a best-in-class cybersecurity program.With a CISSP, you validate your expertise and become an ISC2 member, unlocking a broad array of exclusive resources, educational tools and peer-to-peer networking opportunities.Prove your skills, advance your career, help earn the salary you want and gain the support of a community of cybersecurity leaders here to support you throughout your career.",
@@ -2172,15 +2142,6 @@ const Roadmap_data = [
     "name": "EEXIN ISM",
     "url": "https://exin.com/data-protection-security/exin-information-security-management-iso-iec-27001/information-security-management-expert-based-on-iso-iec-27001/",
     "description": "Management Expert based on ISO/IEC 27001.EXIN Information Security Management Expert based on ISO/IEC 27001 certification confirms that the professional can establish and optimize an information security management system (ISMS) in the organization.",
-    "category": ["Security and Risk Management"],
-    "subcategory": ["GRC"],
-    "level": "Intermediate",
-    "provider": "EXIN"
-  },
-  {
-    "name": "GSP",
-    "url": "https://www.giac.org/get-certified/giac-portfolio-certifications/#gsp",
-    "description": "GIAC’s NEW Security Professional (GSP) illustrates your depth and breadth of knowledge. The GSP is a new milestone on your journey to becoming a GSE that proves mastery of multiple areas in the cybersecurity industry with hands on problem solving. Those holding the GSP have demonstrated they are some of the most experienced and capable practitioners in the field.",
     "category": ["Security and Risk Management"],
     "subcategory": ["GRC"],
     "level": "Intermediate",
@@ -2382,10 +2343,7 @@ const Roadmap_data = [
     "url": "https://www.ncsc.gov.uk/information/certified-cyber-professional-assured-service",
     "description": "Certified Cyber Professional (CCP) assured service.About the Certified Professional (CCP) assured service and the benefits for UK cyber security organisations and professionals.",
     "category": ["Security and Risk Management"],
-    "level": "Intermediate",
-    "provider": "National Cyber Security Centre"
   },
-
   {
     // Security Assessment and Testing
     "name": "TUV CyAware",
@@ -2659,11 +2617,7 @@ const Roadmap_data = [
     "description": "ecurity Tester qualification is aimed at people who have already achieved an advanced point in their careers in software testing and wish to develop further their expertise in security testing. The modules offered at the Advanced Level cover a wide range of testing topics.Application security testing is an approach to validate security requirements and uncover vulnerabilities in an application (web / mobile / thick client / web services) and its associated components, by performing static and dynamic security testing. Security testing is becoming a crucial validation activity. It cuts across the lines of business (LOB), enterprise testing, and shared services. Thus, chief information security officers (CISOs) and several information security groups are looking to add security testing as a new service line.The Certification is helpful in demonstrating the attacker mentality by discovering key information about a target, performing actions on a test application in a protected environment that a malicious person would perform, and understand how evidence of the attack could be deleted.",
     "category": ["Software Security"],
     "level": "Intermediate",
-    "provider": "GAQM"
-  },
-  {
-    "name": "GMLE",
-    "url": "https://www.giac.org/certifications/machine-learning-engineer-gmle/",
+    "provider": "GAQM",
     "description": "The GIAC Machine Learning Engineer (GMLE) certification validates a practitioner’s knowledge of practical data science, statistics, probability, and machine learning. GMLE certification holders have demonstrated that they are qualified to solve real-world cyber security problems using Machine Learning.",
     "category": ["Software Security"],
     "level": "Intermediate",
