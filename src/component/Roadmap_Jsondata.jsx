@@ -821,6 +821,10 @@ const Roadmap_data = [
     // err page not found
     "name": "CSA CGC",
     "url": "https://cloudsecurityalliance.org/education/cloud-governance-and-compliance",
+    "description": "",
+    "category": ["Security Architecture and Engineering"],
+    "subcategory": ["Cloud/SysOps"],
+    "level": "Intermediate",
     "provider": "Cloud Security Alliance"
   },
   {
@@ -864,6 +868,10 @@ const Roadmap_data = [
     "name": "AWS CSS",
     "url": "https://aws.amazon.com/certification/certified-security-specialty/",
     "description": "AWS Certified Security - Specialty validates your expertise in creating and implementing security solutions in the AWS Cloud. This certification also validates your understanding of specialized data classifications and AWS data protection mechanisms; data-encryption methods and AWS mechanisms to implement them; and secure internet protocols and AWS mechanisms to implement them.",
+    "category": ["Security Architecture and Engineering"],
+    "subcategory": ["Cloud/SysOps"],
+    "level": "Intermediate",
+    "provider": "AWS"
   },
   {
     "name": "SFCCCC",
@@ -920,6 +928,10 @@ const Roadmap_data = [
   {
     "name": "ISA CDS",
     "url": "https://www.isa.org/certification/certificate-programs/isa-iec-62443-cybersecurity-certificate-program",
+    "description": "The ISA industrial cybersecurity training courses and knowledge-based certificate recognition program are based on ISA/IEC 62443—the world’s only consensus-based series of automation cybersecurity standards, and a key component of government cybersecurity plans. This program covers the complete lifecycle of industrial automation and control system (IACS) assessment, design, implementation, operations, and maintenance.The program is designed for professionals involved in IT and control system security roles that need to develop a command of industrial cybersecurity terminology, as well as a thorough understanding of the material embedded in the ISA/IEC 62443 series of standards. The ISA/IEC 62443 Cybersecurity certificates are awarded to those who successfully complete a designated training course and pass a 75-100 question multiple choice exam.",
+    "category": ["Security Architecture and Engineering"],
+    "subcategory": ["ICS/IoT"],
+    "level": "Intermediate",
     "provider": "International Society of Automation ISA"
   },
   {
@@ -1956,6 +1968,14 @@ const Roadmap_data = [
     "description": "The Professional Scrum Developer™ (PSD) certification validates your knowledge of how to deliver quality software using the Scrum framework while working in Scrum Teams including the application of modern Agile and DevOps practices. Earning PSD proves that you have demonstrated an understanding of the fundamentals of applying the Scrum framework as it applies to software development.",
     "category": ["Security and Risk Management"],
     "level": "Intermediate",
+    "provider": "Scrum.org"
+  },
+  {
+    "name": "GCPM",
+    "url": "https://www.giac.org/certifications/certified-project-manager-gcpm/",
+    "description": "The GIAC Certified Project Manager (GCPM) certification validates a practitioner's knowledge of technical project management methodology and implementation. GCPM certification holders have demonstrated the critical skill sets associated with making projects successful, including effective communication and time, cost, quality, procurement and risk management of IT projects and application development.",
+    "category": ["Security and Risk Management"],
+    "level": "Intermediate",
     "provider": "GIAC Certifications"
   },
   {
@@ -2147,6 +2167,15 @@ const Roadmap_data = [
     "name": "EEXIN ISM",
     "url": "https://exin.com/data-protection-security/exin-information-security-management-iso-iec-27001/information-security-management-expert-based-on-iso-iec-27001/",
     "description": "Management Expert based on ISO/IEC 27001.EXIN Information Security Management Expert based on ISO/IEC 27001 certification confirms that the professional can establish and optimize an information security management system (ISMS) in the organization.",
+    "category": ["Security and Risk Management"],
+    "subcategory": ["GRC"],
+    "level": "Intermediate",
+    "provider": "EXIN"
+  },
+  {
+    "name": "GSP",
+    "url": "https://www.giac.org/get-certified/giac-portfolio-certifications/#gsp",
+    "description": "GIAC’s NEW Security Professional (GSP) illustrates your depth and breadth of knowledge. The GSP is a new milestone on your journey to becoming a GSE that proves mastery of multiple areas in the cybersecurity industry with hands on problem solving. Those holding the GSP have demonstrated they are some of the most experienced and capable practitioners in the field.",
     "category": ["Security and Risk Management"],
     "subcategory": ["GRC"],
     "level": "Intermediate",
