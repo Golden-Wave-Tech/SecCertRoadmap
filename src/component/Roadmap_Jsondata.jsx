@@ -3650,7 +3650,7 @@ const Roadmap_data = [
     "provider": "iNE Security",
   },
   {
-    // err one H extra
+    
     "name": "S-EHP",
     "url": "https://www.seco-institute.org/certifications/ethical-hacking-track/practitioner/",
     "description": "Once you are certified you will learn that SECO-Institute is more than just an examination factory. You will become a member of the (S)ECO-System. Supporting our members and lifelong learning, you will access ‘Member Only’ webinars and professional knowledge resources, obtain discounts on other trainings and events, and receive personal invitations for exclusive conferences, working groups and professional activities developed through our global partner network of other clusters and innovation projects.",
