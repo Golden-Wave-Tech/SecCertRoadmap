@@ -2121,6 +2121,11 @@ const Roadmap_data = [
     "url": "https://www.ncsc.gov.uk/information/certified-cyber-professional-assured-service",
     "description": "Certified Cyber Professional (CCP) assured service.About the Certified Professional (CCP) assured service and the benefits for UK cyber security organisations and professionals.",
     "category": ["Security and Risk Management"],
+    "level": "Expert",
+    "provider": "National Cyber Security Center"
+  },
+
+  {
     "name": "CISSP",
     "url": "https://www.isc2.org/Certifications/CISSP",
     "description": "Earn the CISSP - The World's Premier Cybersecurity Certification Accelerate your cybersecurity career with the CISSP certification. Earning the CISSP proves you have what it takes to effectively design, implement and manage a best-in-class cybersecurity program.With a CISSP, you validate your expertise and become an ISC2 member, unlocking a broad array of exclusive resources, educational tools and peer-to-peer networking opportunities.Prove your skills, advance your career, help earn the salary you want and gain the support of a community of cybersecurity leaders here to support you throughout your career.",
@@ -2617,7 +2622,11 @@ const Roadmap_data = [
     "description": "ecurity Tester qualification is aimed at people who have already achieved an advanced point in their careers in software testing and wish to develop further their expertise in security testing. The modules offered at the Advanced Level cover a wide range of testing topics.Application security testing is an approach to validate security requirements and uncover vulnerabilities in an application (web / mobile / thick client / web services) and its associated components, by performing static and dynamic security testing. Security testing is becoming a crucial validation activity. It cuts across the lines of business (LOB), enterprise testing, and shared services. Thus, chief information security officers (CISOs) and several information security groups are looking to add security testing as a new service line.The Certification is helpful in demonstrating the attacker mentality by discovering key information about a target, performing actions on a test application in a protected environment that a malicious person would perform, and understand how evidence of the attack could be deleted.",
     "category": ["Software Security"],
     "level": "Intermediate",
-    "provider": "GAQM",
+    "provider": "GAQM"
+  },
+  {
+    "name": "GMLE",
+    "url": "https://www.giac.org/certifications/machine-learning-engineer-gmle/",
     "description": "The GIAC Machine Learning Engineer (GMLE) certification validates a practitioner’s knowledge of practical data science, statistics, probability, and machine learning. GMLE certification holders have demonstrated that they are qualified to solve real-world cyber security problems using Machine Learning.",
     "category": ["Software Security"],
     "level": "Intermediate",
