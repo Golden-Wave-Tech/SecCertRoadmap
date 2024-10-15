@@ -168,7 +168,7 @@ const Roadmap_data = [
     "description": "Fortinet Certified Professional - The FCP in Network Security certification validates your ability to secure networks and applications by deploying, managing, and monitoring Fortinet network security products. This curriculum will cover the day-to-day tasks related to Fortinet network security devices. ",
     "category": ["Communication and Network Security"],
     "level": "Intermediate",
-    "provider": "Fortinet Training Institude"
+    "provider": "Fortinet Training Institute",
   },
   {
     "name": "CCNA",
@@ -203,7 +203,7 @@ const Roadmap_data = [
     "description": "Fortinet Certified Solution Specialist - The FCSS in Network Security certification validates your ability to design, administer, monitor, and troubleshoot Fortinet network security solutions. This curriculum covers network security infrastructures using advanced Fortinet solutions. ",
     "category": ["Communication and Network Security"],
     "level": "Intermediate",
-    "provider": "Fortinet Training Institude"
+    "provider": "Fortinet Training Institute"
   },
   {
     "name": "CCSM",
@@ -252,7 +252,7 @@ const Roadmap_data = [
     "description": "Fortinet Certified Solution Specialist - The FCSS in ZTA certification validates your ability to design, administer, monitor, and troubleshoot Fortinet ZTA solutions. This curriculum covers ZTA infrastructures using advanced Fortinet solutions.To obtain the FCSS in Zero Trust Access certification, you must pass the Fortinet NSE 7–Zero Trust Access exam. The certification will be active for two years ",
     "category": ["Communication and Network Security"],
     "level": "Intermediate",
-    "provider": "Fortinet Training LinkedInude"
+    "provider": "Fortinet Training Institute"
   },
   {
     "name": "PCNSE",
@@ -284,7 +284,7 @@ const Roadmap_data = [
     "description": "The Fortinet Certified Expert (FCX) is Cybersecurity designation recognizes your comprehensive knowledge of network security design, configuration, and troubleshooting for complex networks. To attempt the exam, you must have industry experience.",
     "category": ["Communication and Network Security"],
     "level": "Intermediate",
-    "provider": "Fortinet Training LinkedInude"
+    "provider": "Fortinet Training Institute"
 
   },
   {
@@ -334,7 +334,7 @@ const Roadmap_data = [
     "description": "The FCSS in Secure Access Service Edge (SASE) certification validates your ability to design, administer, monitor, and troubleshoot Fortinet SASE solutions. This curriculum covers SASE infrastructures using advanced Fortinet solutions.",
     "category": ["IAM"],
     "level": "Intermediate",
-    "provider": "Fortinet Training LinkedInude"
+    "provider": "Fortinet Training Institute"
   },
   {
     "name": "CIAM",
@@ -1390,7 +1390,7 @@ const Roadmap_data = [
     "description": "The Chartered Institute of Information Security (CIISec) is a leading professional body for cybersecurity professionals, dedicated to raising standards in the industry. It provides certifications, training, and a range of resources to help individuals and organizations develop their cybersecurity skills and knowledge. CIISec focuses on promoting best practices and supporting career development through its community of members, offering a path to recognized professional status in the field of information security.",
     "category": ["Security and Risk Management"],
     "level": "Beginner",
-    "provider": "Chartered Institude of Information Security"
+    "provider": "Chartered Institute of Information Security",
   },
   {
     // err page not found
@@ -1465,8 +1465,8 @@ const Roadmap_data = [
     "description": "Certificate in Cybersecurity Analysis (IIBA-CCA)The IIBA-CCA equips professionals with vital cybersecurity analysis knowledge and skills through a robust learning and certification program.",
     "category": ["Security and Risk Management"],
     "level": "Beginner",
-    "provider": "IIBA International Institude of Business Analysis"
-  },
+    "provider": "IIBA International Institute of Business Analysis",
+    },
   {
     // err not found
     "name": "Zach EAA",
@@ -1649,7 +1649,7 @@ const Roadmap_data = [
     "category": ["Security and Risk Management"],
     "subcategory": ["GRC"],
     "level": "Beginner",
-    "provider": "ICS2"
+    "provider": "ISC2"
   },
   {
     "name": "FEXIN",
@@ -1928,7 +1928,7 @@ const Roadmap_data = [
     "description": "The CAPM® shows the world that you possess the foundational knowledge and skills that project teams demand. It proves that you’re ready to take on a wide range of projects too—with ways of working that include predictive project management, agile principles and business analysis. Earning your CAPM equips you with all you need to start a career in project management.",
     "category": ["Security and Risk Management"],
     "level": "Intermediate",
-    "provider": "Project Management Institude",
+    "provider": "Project Management Institute",
   },
   {
     "name": "PSM II",
@@ -2074,7 +2074,7 @@ const Roadmap_data = [
     "description": "The PMP acknowledges candidates skilled at managing the people, processes, and business priorities of professional projects. PMI, the world’s leading authority on project management, created the PMP to recognize project managers who have proven they have project leadership experience and expertise in any way of working.To obtain PMP certification, a project manager must meet certain requirements and then pass a 180-question exam. The PMP exam was created by project leaders for project leaders, so each test question can be related to real-life project management experiences.",
     "category": ["Security and Risk Management"],
     "level": "Expert",
-    "provider": "Project Management Institude"
+    "provider": "Project Management Institute"
   },
   {
     "name": "PgMP",
@@ -2082,7 +2082,7 @@ const Roadmap_data = [
     "description": "Advance Your Organization’s Strategic Goals. The Program Management Professional (PgMP)® certification is a visible sign of your advanced project management experience and gives you a distinct advantage.",
     "category": ["Security and Risk Management"],
     "level": "Expert",
-    "provider": "Project Management Institude"
+    "provider": "Project Management Institute"
   },
   {
     "name": "ITIL Master",
@@ -2294,11 +2294,7 @@ const Roadmap_data = [
   {
     "name": "APMG 20000P",
     "url": "https://apmg-international.com/product/iso-iec-20000",
-    "description": `Understand the relationship between ISO/IEC 20000 standard and ITSM and use best practices in ITSM to apply appropriate methods within an organization.
-  Understand, identify and explain the potential issues regarding applicability, eligibility and scoping to assist in certification readiness assessment and certification audits as well as advising on the implementation of continual improvement processes.
-  Produce a gap analysis supported by an improvement and implementation plan.
-  Describe the scope, aims and use of the ISO/IEC 20000 specification and code of practice, through an understanding of the roles of the component parts of the standard.
-  Recognize the need to plan and implement ITSM processes, report on the IT services and major metrics of the ITSM processes, schedule and conduct regular reviews, assessments and audits and plan for continual service improvement.`,
+    "description": "Understand the relationship between ISO/IEC 20000 standard and ITSM and use best practices in ITSM to apply appropriate methods within an organization.Understand, identify and explain the potential issues regarding applicability, eligibility and scoping to assist in certification readiness assessment and certification audits as well as advising on the implementation of continual improvement processes. Produce a gap analysis supported by an improvement and implementation plan.Describe the scope, aims and use of the ISO/IEC 20000 specification and code of practice, through an understanding of the roles of the component parts of the standard.Recognize the need to plan and implement ITSM processes, report on the IT services and major metrics of the ITSM processes, schedule and conduct regular reviews, assessments and audits and plan for continual service improvement.",
     "category": ["Security and Risk Management"],
     "subcategory": ["GRC"],
     "level": "Intermediate",
